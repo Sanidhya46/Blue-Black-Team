@@ -13,7 +13,7 @@ export default function Header() {
           <img src="/bb-icon.jpg" alt="Logo" className="h-10" />
           <h1
             className="text-md font-bold bg-gradient-to-r from-blue-400 via-blue-950 to-black bg-clip-text text-transparent animate-gradient"
-          >
+          >                                            
             BLUE BLACK
           </h1>
         </div>
