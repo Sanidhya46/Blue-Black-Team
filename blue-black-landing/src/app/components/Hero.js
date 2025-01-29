@@ -7,7 +7,7 @@ export default function Hero() {
       // Image path is relative to the public folder
     >
       <h1 className="text-5xl font-extrabold leading-tight text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-purple-500 to-blue-500">
-        Welcome to the Blue Black Team
+        Welcome to the Blue Black Team                                
       </h1>
       <p className="mt-8 text-lg md:text-xl font-medium text-gray-300">
         Join us in shaping the future with impactful projects and a strong mission.
