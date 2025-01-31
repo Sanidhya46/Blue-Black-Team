@@ -5,7 +5,7 @@ export default function Team() {
     { name: "Gagan Shukla", role: "Frontend Developer", image: "/profile.png", rating: 5 },
     { name: "Gagan Shukla", role: "Backend Developer", image: "/profile1.webp", rating: 5 },
     { name: "Gagan Shukla", role: "UI/UX Designer", image: "/profile.png", rating: 5 },
-  ];
+  ];         
 
   return (
     <section id="team" className="py-16 bg-gradient-to-b from-blue-900 to-black relative">
