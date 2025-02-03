@@ -11,7 +11,7 @@ export default function Team() {
     <section id="team" className="py-16 bg-gradient-to-b from-blue-900 to-black relative">
       <div className="container mx-auto px-6">
         {/* Title and Button Container */}
-        <div className="flex justify-between items-center mb-12">
+        <div className="flex justify-between items-center mb-12">     
           <h2 className="text-3xl font-bold text-white">Meet Our Team</h2>
 
           {/* Button for See Full Team */}
