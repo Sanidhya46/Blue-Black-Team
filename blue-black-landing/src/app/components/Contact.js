@@ -13,7 +13,7 @@ export default function Contact() {
           <p className="mt-4 text-lg text-gray-300">We'd love to hear from you!</p>
         </div>
 
-        {/* Contact Form */}
+        {/* Contact Form */}      
         <div className="max-w-lg mx-auto">
           <form className="space-y-6">
             {/* Name Input */}
