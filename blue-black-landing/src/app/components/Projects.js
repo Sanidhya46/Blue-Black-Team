@@ -15,7 +15,7 @@ export default function Projects() {
     {
       title: "Sustainability Tracker",
       description: "Empowering users to track their carbon footprint.",
-      image: "/sustainability.jpg", // Example image path
+      image: "/sustainability.jpg", // Example image path   
     },
     {
       title: "Community App",
