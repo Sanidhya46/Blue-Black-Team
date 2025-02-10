@@ -7,7 +7,7 @@ export default function Contact() {
       className="py-16 bg-gradient-to-b from-black to-blue-900 text-white"
     >
       <div className="container mx-auto px-6">
-        {/* Title Section */}
+        {/* Title Section */}            
         <div className="text-center mb-12">
           <h2 className="text-4xl font-extrabold">Contact Us</h2>
           <p className="mt-4 text-lg text-gray-300">We'd love to hear from you!</p>
