@@ -4,7 +4,7 @@ export default function Footer() {
         <div className="container mx-auto text-center">
           <p>&copy; 2025 Blue Black Team. All rights reserved.</p>        
         </div>
-      </footer>
+      </footer>     
     );
   }
   
