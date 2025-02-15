@@ -9,7 +9,7 @@ export default function Projects() {
     },
     {
       title: "E-Commerce Platform",
-      description: "An engaging platform for seamless online shopping.",
+      description: "An engaging platform for seamless online shopping.",       
       image: "/ecommerce.jpeg", // Example image path
     },
     {
