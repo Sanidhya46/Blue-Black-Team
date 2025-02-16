@@ -5,7 +5,7 @@ export default function Contact() {
     <section
       id="contact"
       className="py-16 bg-gradient-to-b from-black to-blue-900 text-white"
-    >
+    >        
       <div className="container mx-auto px-6">
         {/* Title Section */}            
         <div className="text-center mb-12">
